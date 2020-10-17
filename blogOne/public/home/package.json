@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sass --watch sass/app.scss css/app.css"
+    "start": "sass --watch sass/app.scss css/app.css"
   },
   "keywords": [],
   "author": "Abdou Ramadan",

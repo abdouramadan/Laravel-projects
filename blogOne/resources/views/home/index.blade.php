@@ -5,13 +5,19 @@
     <header class="mainHeader">
         <nav class="mainNavbar navbar navbar-expand-lg navbar-transparent">
             <div class="container">
-                <a href="" class="navbar-brrand text-capitalize">abdev</a>
+                <a href="" class="navbar-brand text-capitalize font-weight-bold">fisal</a>
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a href="" class="nav-link text-capitalize">home</a>
                     </li>
                     <li class="nav-item">
                         <a href="" class="nav-link text-capitalize">about</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link text-capitalize">resume</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link text-capitalize">portfolio</a>
                     </li>
                     <li class="nav-item">
                         <a href="" class="nav-link text-capitalize">blog</a>
